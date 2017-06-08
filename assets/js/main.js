@@ -1,0 +1,1 @@
+"use strict";$(document).ready(function(){$(".button-collapse").sideNav()}),$(window).on("scroll",function(){$(this).scrollTop()>0?$("#navi").addClass("navbar-fixed"):$("#navi").removeClass("navbar-fixed")});

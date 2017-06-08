@@ -1,0 +1,22 @@
+{
+  "name": "tepee",
+  "description": "Hopi for frontend begginers",
+  "main": "gulpfile.js",
+  "authors": [
+    "\"Victor Avelar\""
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "devDependencies": {
+    "font-awesome": "^4.7.0",
+    "normalize-css": "^7.0.0",
+    "materialize": "^0.98.2"
+  }
+}

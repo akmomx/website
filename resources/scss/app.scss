@@ -93,10 +93,16 @@ blockquote {
 
 .bootcamp-hero {
   min-height: 20vh;
-  background: url(../images/bootcamp.jpg) fixed center/cover;
+  background-image: url('../images/bootcamp.jpg');
+  background-size: cover;
+  background-position: bottom;
   .layer {
     min-height: inherit;
     padding: 10vh 0;
-    background: rgba(black, .25);
+    background: rgba(black, .55);
   }
+}
+
+.hero-section {
+  padding: 5vh 0;
 }

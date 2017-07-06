@@ -7901,3 +7901,11 @@ blockquote {
 
 .social {
   padding: 2vh 0; }
+
+.bootcamp-hero {
+  min-height: 20vh;
+  background: url(../images/bootcamp.jpg) fixed center/cover; }
+  .bootcamp-hero .layer {
+    min-height: inherit;
+    padding: 10vh 0;
+    background: rgba(0, 0, 0, 0.25); }
